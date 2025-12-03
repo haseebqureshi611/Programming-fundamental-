@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haseeb Qureshi</h1>
 <h3 align="center">A passionate software developer from Azad Kashmir</h3>
-<img align ="right" alt="coding" width="400"src=https://github.com/rudrabarad/Gifs
+<img align ="right" alt="coding" width="400"src=<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/18472cc6-8754-44d1-ad94-fd0de18fbd30" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseebqureshi611&label=Profile%20views&color=0e75b6&style=flat" alt="haseebqureshi611" /> </p>
 
